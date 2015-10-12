@@ -1,5 +1,19 @@
 # Sublime Text
 
+### Preference.sublime-settings - User
+
+```json
+{
+    "font_size": 15,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true
+}
+```
+
 ### Shorcut Keys
 
 On Menu Bar: **Sublime Text > Preferences > Key Bindings - User**
