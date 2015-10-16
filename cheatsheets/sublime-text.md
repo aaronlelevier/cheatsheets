@@ -21,13 +21,13 @@ On Menu Bar: **Sublime Text > Preferences > Key Bindings - User**
 
 ```json
 [{
-    "keys": ["pageup"],
+    "keys": ["alt+up"],
     "command": "scroll_lines",
     "args": {
         "amount": 30.0
     }
 }, {
-    "keys": ["pagedown"],
+    "keys": ["alt+down"],
     "command": "scroll_lines",
     "args": {
         "amount": -30.0
