@@ -46,3 +46,8 @@ On Menu Bar: **Sublime Text > Preferences > Key Bindings - User**
 [HTMLBeautify](https://packagecontrol.io/packages/HTMLBeautify)
 
 [Javascript Beautify](https://packagecontrol.io/packages/Javascript%20Beautify)
+
+### Show hidden dot files
+
+`cmd + shift + .`
+
