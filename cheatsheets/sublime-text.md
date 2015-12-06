@@ -4,15 +4,33 @@
 
 ```json
 {
-    "font_size": 15,
+    "binary_file_patterns":
+    [
+        "*min.js",
+        "*.debug.js",
+        "*prod.js"
+    ],
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "folder_exclude_patterns":
+    [
+        "tmp",
+        "assets",
+        "node_modules",
+        "bower_components"
+    ],
+    "font_size": 14,
     "ignored_packages":
     [
         "Vintage"
     ],
+    "rulers":
+    [
+        90
+    ],
     "tab_size": 4,
     "translate_tabs_to_spaces": true
-    "rulers": [80, 100],
 }
+
 ```
 
 ### Shorcut Keys
